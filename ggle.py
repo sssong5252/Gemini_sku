@@ -1,14 +1,3 @@
-"""
-Proprietary License
-
-Copyright (c) 2024 [JUNYONG-SONG]
-
-All rights reserved. Unauthorized copying, use, or distribution of this code is strictly prohibited without prior written permission from the author.
-
-For permission requests, contact: [luckyjude@sungkyul.ac.kr]
-"""
-
-
 import google.generativeai as genai
 
 GOOGLE_API_KEY=""
